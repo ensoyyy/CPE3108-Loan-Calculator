@@ -46,7 +46,7 @@ CPE3108-Loan-Calculator/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/DanielJonSantos/CPE3108-Loan-Calculator.git
+git clone https://github.com/ensoyyy/CPE3108-Loan-Calculator.git
 cd CPE3108-Loan-Calculator
 ```
 
